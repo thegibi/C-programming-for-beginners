@@ -1,0 +1,19 @@
+# Ignorar diretórios de build
+/build/
+*.o
+*.a
+*.so
+
+# Ignorar arquivos de metadados do editor
+*.swp
+*~
+
+# Ignorar arquivos específicos da linguagem C
+*.dSYM
+*.DS_Store
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração locais
+*.config
